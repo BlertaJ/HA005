@@ -15,7 +15,7 @@ pygmentscodefencesguesssyntax = true
 
 disqusShortname = "Blerta Jashari"
 [params]
-    description = "My  personal website"
+    description = "My personal website"
     keywords = "blog,developer,personal"
     info = "Full Stack DevOps and Magician"
     avatarurl = "avatar.jpg"
