@@ -1,4 +1,4 @@
-baseurl = "blerta.jashari.oseose.com"
+baseurl = "http://blerta.jashari.oseose.com"
 title = "Blerta Jashari"
 
 theme = "hugo-coder"
