@@ -18,7 +18,7 @@ disqusShortname = "Blerta Jashari"
     description = "My personal website"
     keywords = "blog,developer,personal"
     info = "Full Stack DevOps and Magician"
-    avatarurl = "avatar.jpg"
+    avatarurl = "images\avatar1"
     footercontent = "Enter a text here."
 
     dateformat = "January 2, 2006"
